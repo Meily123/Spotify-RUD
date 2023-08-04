@@ -1,0 +1,35 @@
+.login {
+    text-align: center;
+    place-items: center;
+    height: 100vh;
+    background-color: #110e04;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+    display: inline;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.login img {
+    margin-top: 100px;
+    height: 220px;
+}
+
+.login a {
+
+}
+
+.login button {
+    margin-top: 200px;
+    border: none;
+    color: white;
+    border-radius: 90px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: green;
+    font-size: 20px;
+}
